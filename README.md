@@ -2,6 +2,8 @@
 
 ### Summary
 Korean conversation modeling using deep learning. 
+We build Seq2Seq Model and HRED Model, and test them.  
+We completed the chatbot by linking the results with Kakao Talk Chatbot API.  
 
 ### Paper Study
 1. (Word Embedding 1) Distributed Representations of Words and Phrases and their Compositionality 
