@@ -1,6 +1,6 @@
-# Non-verbal Korean Dialog Modeling Using Deep Learning 
+# Non-verbal Korean Dialogue Modeling Using Deep Learning 
 
-### summury
+### Summary
 Korean conversation modeling using deep learning. 
 
 ### Paper Study
@@ -21,6 +21,7 @@ Korean conversation modeling using deep learning.
 ### Requirements
 * python 3.6.5
 * tensorflow 1.9.0
+* nltk 3.3
 
 ### References
 * http://gom.gomtv.com/main/index.html?ch=subtitles&pt=l&menu=subtitles (GomPlayer)
