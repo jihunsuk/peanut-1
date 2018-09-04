@@ -1,5 +1,0 @@
-models.cpython-36.pyc filter=lfs diff=lfs merge=lfs -text
-urls.cpython-36.pyc filter=lfs diff=lfs merge=lfs -text
-views.cpython-36.pyc filter=lfs diff=lfs merge=lfs -text
-__init__.cpython-36.pyc filter=lfs diff=lfs merge=lfs -text
-admin.cpython-36.pyc filter=lfs diff=lfs merge=lfs -text
