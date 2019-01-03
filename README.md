@@ -16,7 +16,7 @@ We completed the chatbot by linking the results with Kakao Talk Chatbot API.
 ### Team member
 * [Daeun Kim](https://github.com/kde0820)
 * [HaaYeon Lee](https://github.com/LeeHaaYeon)
-* [JiHun Suk](https://github.com/tjrwlgns1198)
+* [JiHun Suk](https://github.com/jihunsuk)
 * [EunJeong Jang](https://github.com/cs801458j)
 * [JaeYeol Jeon](https://github.com/JaytenJeon)
 
